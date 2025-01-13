@@ -1,0 +1,826 @@
+{"production": [
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieAchatina/ASAAchatina_Character_BP_EerieDinos.ASAAchatina_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EeriePhoenix/ASAPhoenix_Character_BP_EerieDinos.ASAPhoenix_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/SDinoVariants/Content/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Z_VariantsOceanLife/Content/z-basilosaurus/Z_Basilosaurus_Character_BP.Z_Basilosaurus_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieTusoteuthis/ASATusoteuthis_Character_BP_EerieDinos.ASATusoteuthis_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieDungBeetle/ASADungBeetle_Character_BP_EerieDinos.ASADungBeetle_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/SDinoVariants/Content/S-BeeQueen/S-Bee_Queen_Character_BP.S-Bee_Queen_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 1000.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieOvis/ASASheep_Character_BP_EerieDinos.ASASheep_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Z-DinoVariants/Content/z-ovis/Z_Ovis_Character_BP.Z_Ovis_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieKairuku/ASAKairuku_Character_BP_EerieDinos.ASAKairuku_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieArchaeopteryx/ASAArcha_Character_BP_EerieDinos.ASAArcha_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieOtter/ASAOtter_Character_BP_EerieDinos.ASAOtter_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Mods/SDinoVariants/Content/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-DinoVariants/Content/z-otter/Z_Otter_Character_BP.Z_Otter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z_otter/Z_Otter_Character_BP_ASA.Z_Otter_Character_BP_ASA'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-DinoVariants/Content/z-aberrantotter/Z_Aberrant_Otter_Character_BP.Z_Aberrant_Otter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z_aberrantotter/Z_Aberrant_Otter_Character_BP_ASA.Z_Aberrant_Otter_Character_BP_ASA'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-AbberationVariants/Content/z_aberrant_otter/Z_Ab_Otter_Character_BP.Z_Ab_Otter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-DinoVariants/Content/z-ferretotter/Z_FerretOtter_Character_BP.Z_FerretOtter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z_ferretotter/Z_FerretOtter_Character_BP_ASA.Z_FerretOtter_Character_BP_ASA'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-DinoVariants/Content/z-spottedotter/Z_SpottedOtter_Character_BP.Z_SpottedOtter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z_spottedotter/Z_SpottedOtter_Character_BP_ASA.Z_SpottedOtter_Character_BP_ASA'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z-cupidotter/Z_CupidOtter_Character_BP.Z_CupidOtter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z-pandaotter/Z_PandaOtter_Character_BP.Z_PandaOtter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z-redpandaotter/Z_RedPandaOtter_Character_BP.Z_RedPandaOtter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-VariantsOtterAdditions/Content/z-tigerotter/Z_TigerOtter_Character_BP.Z_TigerOtter_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.10,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.10,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+]
+}
+,
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieCastoroides/ASABeaver_Character_BP_EerieDinos.ASABeaver_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.10,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.10,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+]
+}
+,
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieSnowOwl/ASAOwl_Character_BP_EerieDinos.ASAOwl_Character_BP_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/SDinoVariants/Content/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Ark-EerieDinos/Content/EerieVariants/EerieUnicorn/ASAEquus_Character_BP_Unicorn_EerieDinos.ASAEquus_Character_BP_Unicorn_EerieDinos'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/SDinoVariants/Content/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
+]
+}
+
+]}
+{"dinoType": "Blueprint'/Mods/Z-DinoVariants/Content/z-galaxyunicorn/Z_GalaxyUnicorn_Character_BP.Z_GalaxyUnicorn_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
+]
+}
+
+]}
+
+
+]
+}
